@@ -1,0 +1,3 @@
+package: golang-starter-kit
+import:
+- package: gopkg.in/gin-gonic/gin.v1
