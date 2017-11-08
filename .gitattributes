@@ -1,1 +1,2 @@
-templates linguist-vendored=false
+* linguist-vendored
+templates/* linguist-vendored=false
