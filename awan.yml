@@ -3,4 +3,4 @@ version: '1.0'
 web:
   type: golang
   version: 1.9
-  run: main
+  run: go run main.go
